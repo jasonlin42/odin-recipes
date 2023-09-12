@@ -1,4 +1,21 @@
 body {
     background-color:#e5d7b9;
+    font-family: sans-serif;
 }
 
+.home {
+    text-align: center;
+}
+
+.food {
+    margin: auto;
+    width: 900px; 
+}
+
+.food h1 {
+    text-align: center;
+}
+.food img {
+    margin: auto;
+    display: block;
+}
