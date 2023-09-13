@@ -1,8 +1,11 @@
+/* changes everything */
 body {
     background-color:#e5d7b9;
     font-family: sans-serif;
+    color: #3b5ba0;
 }
 
+/* changes depending on page */
 .home {
     text-align: center;
 }
@@ -18,4 +21,14 @@ body {
 .food img {
     margin: auto;
     display: block;
+}
+
+/* removes underline from links */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.food a {
+    font-size: xx-large;
 }
